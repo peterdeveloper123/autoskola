@@ -1,6 +1,6 @@
 ﻿# Autoškola
 
-## Prípravá na teoretické testy
+## Prípravá na teoretické testy (AI generated project)
 
 ## Spustenie appky lokálne
 
