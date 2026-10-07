@@ -1,6 +1,6 @@
-﻿# Autoškola
+﻿# Autoškola 
 
-## Prípravá na teoretické testy (AI generated project)
+## Prípravá na teoretické testy 
 
 ## Spustenie appky lokálne
 
@@ -15,3 +15,5 @@ npm run dev
 ## Produkcia
 
 https://peterdeveloper123.github.io/autoskola/
+
+##### Disclaimer: Projekt bol generovaný pomocou umelej inteligencie.
