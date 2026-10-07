@@ -1,0 +1,15 @@
+{
+  "sourcePage": "https://www.minv.sk/egovinet02/PCPZobrazFile?fileName=test2.html",
+  "sourceDataUrl": "https://www.minv.sk/egovinet02/PCPZobrazFile?fileName=pcpfiles/data5.js",
+  "downloadedAt": "2026-10-07T09:02:00.093462+00:00",
+  "language": "sk",
+  "scope": "All Slovak tests in the public example linked by sourcePage; not a verified complete internal examination question bank.",
+  "testCount": 100,
+  "questionOccurrences": 4000,
+  "uniqueQuestionCount": 956,
+  "imageCount": 240,
+  "dataSha256": "4e099821e40a59b27d4fdd2c7f7a7567e775878244b35a250bf3c120cd2f5cdc",
+  "httpLastModified": null,
+  "correctAnswerIndexBase": 0,
+  "imagePathBase": "src/assets/minv/"
+}
